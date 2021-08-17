@@ -11,16 +11,5 @@
     "logo": "https://telegra.ph/file/308fdb76a61dd4ff054f6.jpg",
     "repository": "https://github.com/MohammadSylix/Base",
     "success_url": "/",
-    "env": {
-        "TG_BOT_TOKEN": {
-            "description": "your Telegram Bot Token, from @BotFather"
-        },
-    "formation": {
-        "web": {
-            "quantity": 1,
-            "size": "free"
-        }
-    },
-    "image": "heroku/php"
-    }
-}
+    
+
